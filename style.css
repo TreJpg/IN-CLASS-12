@@ -45,18 +45,5 @@
 .team-section {
   margin-top: 150px;
   padding: 20px;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.team-grid {
-  display: flex;
-  gap: 10px;
-  align-items: stretch;
-}
-
-.team-member {
-  flex: 1;
 }
 
